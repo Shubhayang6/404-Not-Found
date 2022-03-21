@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@https://github.com/Shubhayang6](https://{github.com/Shubhayang6})
+- GitHub [@Shubhayang6](https://{github.com/Shubhayang6})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
